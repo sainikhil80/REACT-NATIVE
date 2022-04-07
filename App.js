@@ -10,9 +10,9 @@ import TextBox from  './components/TextBox';
 
 export default function App() {
   const [todos, setTodos] = useState([
-    { text: 'create an app', key: '1' },
-    { text: 'play cricket', key: '2' },
-    { text: 'call your friend', key: '3' }
+    { text: 'sprint meetings', key: '1' },
+    { text: 'scrum meetings', key: '2' },
+    { text: 'supports tasks', key: '3' }
   ]);
 
   const pressHandler = (key) => {
