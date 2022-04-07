@@ -50,7 +50,7 @@ export default function App() {
           />
          
         <View>
-        <TextBox  />
+        <Calcy  />
         
         </View>
           </View>
